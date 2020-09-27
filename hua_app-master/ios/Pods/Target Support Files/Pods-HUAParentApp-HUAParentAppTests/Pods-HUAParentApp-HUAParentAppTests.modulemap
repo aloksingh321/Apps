@@ -1,0 +1,6 @@
+module Pods_HUAParentApp_HUAParentAppTests {
+  umbrella header "Pods-HUAParentApp-HUAParentAppTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

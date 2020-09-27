@@ -1,0 +1,6 @@
+module Pods_HUAParentApp {
+  umbrella header "Pods-HUAParentApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
